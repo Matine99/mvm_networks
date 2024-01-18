@@ -1,0 +1,20 @@
+{
+  "BondManager": "0xC3B5BE73248c5a3534f058783f9d226a76b680d2",
+  "CanonicalTransactionChain": "0xD55b129874Dee7feE981275e4016Fd86638C6c9D",
+  "ChainStorageContainer-CTC-batches": "0xdf9cB2eBD3ADd1F4f2c900b3D65F0612e7420f41",
+  "ChainStorageContainer-CTC-queue": "0xE874CD3F1dAcB09994eB7178cE90852884FCaa83",
+  "ChainStorageContainer-SCC-batches": "0x8d790d047b665860bbc0c9075029dD973094a47E",
+  "L1StandardBridge_for_verification_only": "0xF6c29A71648d70Fa35468dDd5815CA34016c69d9",
+  "AddressManager": "0xb7c84470Eb4B28D32667bA5927fC16Cf0996D235",
+  "MVM_CanonicalTransaction_for_verification_only": "0xDf85aA84466323A11FF87a4FFc3747E90C1CDc95",
+  "MVM_DiscountOracle": "0x186C4493F7268Fb98298bf19a0fCA6538c3179e8",
+  "MVM_L2ChainManagerOnL1_for_verification_only": "0x5b7Be528075c6D665bB9d663Cb46ae3a305C5CF9",
+  "MVM_Verifier_for_verification_only": "0x6B92d46362f3DfFc2F6E9F13e879FC41e402EdaF",
+  "OVM_L1CrossDomainMessenger": "0x82935a75e3Ea08eF834fA0E305136d5cE729bdc0",
+  "Proxy__MVM_CanonicalTransaction": "0x05A6c5673D0e9231FafEC75F33442E7DF66F093D",
+  "Proxy__MVM_ChainManager": "0x02B159Fe71bFCaB8CF3D17adc9B5ce87bfcC688E",
+  "Proxy__MVM_Verifier": "0xe5c625F3f43BD148290953a459628004683C742D",
+  "Proxy__OVM_L1CrossDomainMessenger": "0xF2A47fAa27F8c3512073d52D8EaDb805663D6297",
+  "Proxy__OVM_L1StandardBridge": "0xCB22CC16329e3D7A9cAf46Dbc0Aa0a5f6D0341c2",
+  "StateCommitmentChain": "0x454ebF4a7F39a1B35993448D03ff0Ca607d23173"
+}
